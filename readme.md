@@ -9,6 +9,7 @@ Consiste na configuração inicial do projeto com:
 - prettier;
 - editor config;
 - nodemon;
+- sucrase;
 - sequelize;
 - migrations de usurios;
 - session controler - autenticação com jwt;
