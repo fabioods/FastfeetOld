@@ -1,5 +1,8 @@
 # Instruções
 
+## Descrição 
+Projeto para gerenciamento de loja de calçados, se trata do back-end do mesmo.
+
 ## Branches
 
 ### Parte1_node
